@@ -48,7 +48,7 @@ to trade and technology shocks than simple models predict.
 | Part 3 — coming soon | | |
 
 ## Interative Map HTML
-[View Interactive Map](file:///C:/Users/PC/Downloads/ai_risk_map.html) 
+[🗺️ View Interactive Map](https://htmlpreview.github.io/?https://github.com/Poonum-Malhi/Europe-under-pressure-first-China-now-AI/blob/main/ai_risk_map.html)
 
 ## Reference
 Frey, C. B., & Osborne, M. A. (2017). The future of employment: How susceptible 
