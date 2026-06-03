@@ -50,6 +50,9 @@ to trade and technology shocks than simple models predict.
 ## Interative Map HTML
 [🗺️ View Interactive Map](https://htmlpreview.github.io/?https://github.com/Poonum-Malhi/Europe-under-pressure-first-China-now-AI/blob/main/ai_risk_map.html)
 
+## Medium 
+📖 [Read the full analysis on Medium](https://medium.com/@poonummalhi04/europe-under-pressure-first-china-now-b5db88ea4d68)
+
 ## Reference
 Frey, C. B., & Osborne, M. A. (2017). The future of employment: How susceptible 
 are jobs to computerisation? *Technological Forecasting and Social Change*, 114, 254–280.
