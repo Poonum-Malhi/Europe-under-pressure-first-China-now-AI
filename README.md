@@ -48,8 +48,7 @@ to trade and technology shocks than simple models predict.
 | Part 3 — coming soon | | |
 
 ## Interative Map HTML
-[🗺️ View Interactive Map](https://htmlpreview.github.io/?https://github.com/Poonum-Malhi/Europe-under-pressure-first-China-now-AI/blob/main/ai_risk_map.html)
-
+https://poonum-malhi.github.io/Europe-under-pressure-first-China-now-AI/ai_risk_map.html
 ## Medium 
 📖 [Read the full analysis on Medium](https://medium.com/@poonummalhi04/europe-under-pressure-first-china-now-b5db88ea4d68)
 
