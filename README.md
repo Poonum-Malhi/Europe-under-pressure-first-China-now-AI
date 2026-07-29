@@ -52,6 +52,27 @@ https://poonum-malhi.github.io/Europe-under-pressure-first-China-now-AI/ai_risk_
 ## Medium 
 📖 [Read the full analysis on Medium](https://medium.com/@poonummalhi04/europe-under-pressure-first-china-now-b5db88ea4d68)
 
+------
+## Addendum — Why This Channel Was Not Extended to a Panel (July 2026)
+
+Two other channels in this series (China Shock and GVC/Reshoring) were re-tested using multi-year panel
+data to check whether their original cross-sectional results were driven by small sample size. This note
+explains why the same approach was not applied here, as a deliberate methodological choice rather than an
+oversight.
+
+Frey and Osborne (2017) automation risk scores are occupation-level estimates of computerisation
+probability. They are not a time-varying measure: a country's occupational structure changes slowly, and
+no updated, comparably-constructed risk score exists for intervening years. Extending this channel to a
+panel would require either treating an essentially static exposure measure as if it varied year to year,
+which would not be a genuine test, or constructing an entirely new time-varying automation exposure index,
+which is beyond the scope of this project.
+
+This is flagged as a distinct category of limitation. The China Shock and Housing Shock null results were
+re-tested with much larger panels and remained null, evidence that those results are not simply
+underpowered. The AI Shock null result, by contrast, has not yet been tested for a power problem at all,
+since the underlying exposure measure does not currently permit it. It should be read as unresolved,
+not as evidence of no relationship.
+
 ## Reference
 Frey, C. B., & Osborne, M. A. (2017). The future of employment: How susceptible 
 are jobs to computerisation? *Technological Forecasting and Social Change*, 114, 254–280.
