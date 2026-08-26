@@ -87,7 +87,7 @@ After adding other variables: GDP, education, I tried to re-run the method and h
 ## Key Finding:
 In a cross-section of 16 EU countries (2021), after controlling for log GDP per capita, tertiary education enrollment, and manufacturing share, the coefficient on the AI automation risk score is 0.29 (SE = 0.73, p = 0.70). The association remains statistically insignificant. The large increase in R-squared (from 0.03 to 0.57) after adding controls indicates that standard economic variables explain unemployment far better than this AI exposure measure.
 ## Results table:
-| Metric | Without Controls | With Controls |
+**| Metric | Without Controls | With Controls |**
 |--------|-------|
 | Coefficient on AI risk score | -0.57 | 0.29|
 | R-squared | 0.031 | 0.571 |
