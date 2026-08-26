@@ -84,11 +84,10 @@ are jobs to computerisation? *Technological Forecasting and Social Change*, 114,
 
 After adding other variables: GDP, education, I tried to re-run the method and here is what I found: 
 
-1. Key Finding:
+## Key Finding:
 In a cross-section of 16 EU countries (2021), after controlling for log GDP per capita, tertiary education enrollment, and manufacturing share, the coefficient on the AI automation risk score is 0.29 (SE = 0.73, p = 0.70). The association remains statistically insignificant. The large increase in R-squared (from 0.03 to 0.57) after adding controls indicates that standard economic variables explain unemployment far better than this AI exposure measure.
-3. Results table:
-
-**| Metric | Without Controls | With Controls |**
+## Results table:
+| Metric | Without Controls | With Controls |
 |--------|-------|
 | Coefficient on AI risk score | -0.57 | 0.29|
 | R-squared | 0.031 | 0.571 |
@@ -96,7 +95,7 @@ In a cross-section of 16 EU countries (2021), after controlling for log GDP per 
 | Standard Error | 0.87 | 0.73 |
 | N | 16 | 16 |
 
-5. Limitations section:Sample size is only 16 countries, so statistical power is very low.
+## Limitations section:Sample size is only 16 countries, so statistical power is very low.
 The AI risk score uses Frey & Osborne (2017) probabilities, which predate generative AI.
 Adding controls caused the coefficient to change sign, suggesting the original bivariate result was unstable.
 Multicollinearity is present because manufacturing enters both the risk score and the control set.
